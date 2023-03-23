@@ -6,7 +6,12 @@ To complete the course, successful completion of the project described here is r
 * Project completed with bonus task (see below) gives **+1 to grade**
 * A very well completed project (carried out meticulously and with attention to detail) gives **+1 to grade**
 
-For example, if you get a 3 on the exam but complete the bonus task (+1) _and_ complete your project very well (+1), your grade will be 5.
+For example:
+
+* If you get a 3 on the exam and complete the bonus task (+1) _and_ complete your project very well (+1), your grade will be 5.
+* If you get a 4 on the exam and _don't_ complete the bonus task _but_ complete your project very well (+1), your grade will be 5.
+
+(max grade is 5)
 
 ## Group work
 
