@@ -31,4 +31,6 @@ As an optional bonus task, you may also do the following. Completing this bonus 
 4. Evaluate your method on this additional out-of-domain test set
 5. Include the results of this evaluation in your report 
 
+## Returning your project
+
 When returning your project, submit both your code (preferably a Python notebook with execution results included) and the report.
