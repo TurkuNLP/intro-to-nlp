@@ -13,6 +13,8 @@ For example:
 
 (max grade is 5)
 
+Use [this template](https://github.com/TurkuNLP/intro-to-nlp/blob/master/course_project_2023_template.ipynb) for your project.
+
 ## Group work
 
 The project can be completed either individually or as a group of two people. Group projects have some additional requirements; see below.
@@ -63,4 +65,4 @@ As an optional bonus task, you may also do the following. Completing this bonus 
 
 ## Returning your project
 
-Return your project as a Python notebook that includes both execution results and the summary descriptions detailed above.
+Return your project as a Python notebook (following [this template](https://github.com/TurkuNLP/intro-to-nlp/blob/master/course_project_2023_template.ipynb)) that includes both execution results and the descriptions detailed above.
