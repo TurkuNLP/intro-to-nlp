@@ -35,9 +35,16 @@ The project involves creating a machine learning-based method for a text classif
 
 Choose one of the following corpora to work on. (If you'd prefer to suggest a corpus not listed here, get in touch with us on Discord!)
 
-1. TODO
-2. TODO
-3. TODO
+| Corpus name | Labels | Subset sizes  | Description |
+| ------------- | ------ | ------------- | ----------- |
+| [imdb](https://huggingface.co/datasets/imdb) | neg pos | train:25000 unsupervised:50000 test:25000 | Large Movie Review Dataset. This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. There is additional unlabeled data for use as well. |
+| [amazon_polarity](https://huggingface.co/datasets/amazon_polarity) | negative positive | train:3600000 test:400000 | The Amazon reviews dataset consists of reviews from amazon. The data span a period of 18 years, including ~35 million reviews up to March 2013. Reviews include product and user information, ratings, and a plaintext review.  |
+| [rotten_tomatoes](https://huggingface.co/datasets/rotten_tomatoes) | neg pos | train:8530 validation:1066 test:1066 | Movie Review Dataset. This is a dataset of containing 5,331 positive and 5,331 negative processed sentences from Rotten Tomatoes movie reviews. This data was first used in Bo Pang and Lillian Lee, ``Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales.'', Proceedings of the ACL, 2005.  |
+| [sst2](https://huggingface.co/datasets/sst2) | negative positive | train:67349 validation:872 test:1821 | The Stanford Sentiment Treebank consists of sentences from movie reviews and human annotations of their sentiment. The task is to predict the sentiment of a given sentence. We use the two-way (positive/negative) class split, and use only sentence-level labels.  |
+| [emo](https://huggingface.co/datasets/emo) | angry happy others sad | train:30160 test:5509 | In this dataset, given a textual dialogue i.e. an utterance along with two previous turns of context, the goal was to infer the underlying emotion of the utterance by choosing from four emotion classes - Happy, Sad, Angry and Others.  |
+| [emotion](https://huggingface.co/datasets/emotion) | anger fear joy love sadness surprise | train:16000 validation:2000 test:2000 | Emotion is a dataset of English Twitter messages with six basic emotions: anger, fear, joy, love, sadness, and surprise. For more detailed information please refer to the paper.  |
+
+**Note**: if you choose a corpus that does not have a validation set, you should split off a random portion of the training data to use for validation.
 
 ## Bonus task
 
