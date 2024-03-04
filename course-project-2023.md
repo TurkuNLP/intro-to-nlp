@@ -2,22 +2,14 @@
 
 To complete the course, successful completion of the project described here is required. The project affects grading as follows:
 
-* Exam gives **grades up to 4** with a minimally completed project (required to pass the course)
-* Project completed with bonus task (see below) gives **+1 to grade**
-* A very well completed project (carried out meticulously and with attention to detail) gives **+1 to grade**
-
-For example:
-
-* If you get a 3 on the exam and complete the bonus task (+1) _and_ complete your project very well (+1), your grade will be 5.
-* If you get a 4 on the exam and _don't_ complete the bonus task _but_ complete your project very well (+1), your grade will be 5.
-
-(max grade is 5)
+* Completed project is required to pass the course
+* Project completed with bonus task (see below) gives **+1 to your grade** (of course you need to pass the exam, so the project bonus cannot lift you from fail to 1)
 
 Use [this template](https://github.com/TurkuNLP/intro-to-nlp/blob/master/course_project_2023_template.ipynb) for your project.
 
 ## Group work
 
-The project can be completed either individually or as a group of two people. Group projects have some additional requirements; see below.
+The project can be completed either individually or as a group of max two people. Group projects have some additional requirements; see below.
 
 ## Basic project outline
 
@@ -33,7 +25,7 @@ The project involves creating a machine learning-based method for a text classif
     4. perform hyperparameter optimization
     5. evaluate your final model on the test set
 5. Write a summary of
-    1. what you learned about the corpus
+    1. what you learned about the corpus (referring also to the paper which you read)
     2. your results
     3. how your results relate to the state of the art
     4. if completed as a group project, a section detailing who did what
