@@ -5,7 +5,7 @@ To complete the course, successful completion of the project described here is r
 * Completed project is required to pass the course
 * Project completed with bonus task (see below) gives **+1 to your grade** (of course you need to pass the exam, so the project bonus cannot lift you from fail to 1)
 
-Use [this template](https://github.com/TurkuNLP/intro-to-nlp/blob/master/course_project_2023_template.ipynb) for your project.
+Use [this template](https://github.com/TurkuNLP/intro-to-nlp/blob/master/course_project_template.ipynb) for your project.
 
 ## Group work
 
@@ -57,4 +57,4 @@ As an optional bonus task, you may also do the following. Completing this bonus 
 
 ## Returning your project
 
-Return your project as a Python notebook (following [this template](https://github.com/TurkuNLP/intro-to-nlp/blob/master/course_project_2023_template.ipynb)) that includes both execution results and the descriptions detailed above.
+Return your project as a Python notebook (following [this template](https://github.com/TurkuNLP/intro-to-nlp/blob/master/course_project_template.ipynb)) that includes both execution results and the descriptions detailed above.
