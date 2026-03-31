@@ -1,6 +1,6 @@
 # Course project
 
-To complete the course, successful completion of the project described here is required. The project affects grading as follows:
+To complete the course, successful completion of the project described here is required. Reusing code from lectures and exercise tasks is expected, there is no need to avoid it. The project affects grading as follows:
 
 * Completed project is required to pass the course
 * Project completed with bonus task (see below) gives **+1 to your grade** (of course you need to pass the exam, so the project bonus cannot lift you from fail to 1)
@@ -21,7 +21,7 @@ The project involves creating a machine learning-based method for a text classif
 4. Write code to
     1. download the corpus
     2. perform any necessary preprocessing
-    3. train a machine learning method on the training set, evaluating performance on the validation set
+    3. train a multi-layer perceptron (MLP) model on the training set, evaluating performance on the validation set
     4. perform hyperparameter optimization
     5. evaluate your final model on the test set
 5. Write a summary of
@@ -61,4 +61,4 @@ As an optional bonus task, you may also do the following. Completing this bonus 
 
 ## Returning your project
 
-Return your project as a Python notebook (following [this template](https://github.com/TurkuNLP/intro-to-nlp/blob/master/course_project_template.ipynb)) that includes both execution results and the descriptions detailed above. If group work, make sure that both returns the same project.
+Return your project as a Python notebook (following [this template](https://github.com/TurkuNLP/intro-to-nlp/blob/master/course_project_template.ipynb)) that includes both execution results and the descriptions detailed above. If group work, make sure that both return the project to Moodle (same notebook with both members listed).
